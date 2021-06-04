@@ -1,0 +1,9 @@
+{
+  "id": "contentful-extension",
+  "name": "contentful-extension",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": [
+    "Entry",
+    "Entries"
+  ]
+}
